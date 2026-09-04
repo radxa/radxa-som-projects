@@ -1,0 +1,678 @@
+.HEADER
+BOARD_FILE    3.0    "PADS Layout VX.2.7"    2026/09/ 3.16:57:33    1
+"c:\users\dell\desktop\3308shajin_20200410.emn"    MM
+.END_HEADER
+.BOARD_OUTLINE    UNOWNED
+0.89916
+0     -120.0                        75.0                          0     
+0     -120.0                        0.0                           0     
+0     0.0                           0.0                           0     
+0     0.0                           75.0                          0     
+0     -120.0                        75.0                          0     
+1     -49.4                         31.85                         0     
+1     -22.6                         31.85                         0     
+1     -22.6                         28.7                          0     
+1     -49.4                         28.7                          0     
+1     -49.4                         31.85                         0     
+2     -104.7                        28.0                          0     
+2     -93.1                         28.0                          0     
+2     -93.1                         24.25                         0     
+2     -104.7                        24.25                         0     
+2     -104.7                        28.0                          0     
+3     -118.5                        44.7                          0     
+3     -116.7                        44.7                          0     
+3     -116.7                        42.9                          0     
+3     -118.5                        42.9                          0     
+3     -118.5                        44.7                          0     
+4     -76.2                         46.6                          0     
+4     -76.2                         42.5                          0     
+4     -65.85                        42.5                          0     
+4     -65.85                        32.75                         0     
+4     -73.45                        32.75                         0     
+4     -73.45                        22.65                         0     
+4     -84.85                        22.65                         0     
+4     -84.85                        34.1                          0     
+4     -82.8                         34.1                          0     
+4     -82.8                         46.6                          0     
+4     -76.2                         46.6                          0     
+5     -65.3                         39.15                         0     
+5     -60.45                        39.15                         0     
+5     -60.45                        34.2                          0     
+5     -65.3                         34.2                          0     
+5     -65.3                         39.15                         0     
+6     -59.4                         31.8                          0     
+6     -54.3                         31.8                          0     
+6     -54.3                         27.65                         0     
+6     -59.4                         27.65                         0     
+6     -59.4                         31.8                          0     
+.END_BOARD_OUTLINE
+.DRILLED_HOLES
+1.016000 -116.738800 4.697600 PTH    JP1    PIN    UNOWNED
+3.800000 -111.862000 5.561200 PTH    JP1    PIN    UNOWNED
+1.799999 -108.661600 3.757800 PTH    JP1    PIN    UNOWNED
+3.500000 -96.000000 3.900000 PTH    TP1    PIN    UNOWNED
+0.650000 -60.395000 5.500000 PTH    J10    PIN    UNOWNED
+0.600000 -61.840000 2.300000 PTH    J10    PIN    UNOWNED
+0.650000 -54.645000 5.500000 PTH    J10    PIN    UNOWNED
+0.600000 -53.200000 2.300000 PTH    J10    PIN    UNOWNED
+3.500000 -3.500000 3.900000 PTH    TP4    PIN    UNOWNED
+1.016000 -116.713400 7.237600 PTH    JP1    PIN    UNOWNED
+1.016000 -116.738800 15.340200 PTH    JP1    PIN    UNOWNED
+0.711200 -103.013403 6.803006 PTH    JP1    PIN    UNOWNED
+0.711200 -105.553400 8.073011 PTH    JP1    PIN    UNOWNED
+0.711200 -103.013403 9.343006 PTH    JP1    PIN    UNOWNED
+0.711200 -105.553403 10.613006 PTH    JP1    PIN    UNOWNED
+0.711200 -103.013403 11.883005 PTH    JP1    PIN    UNOWNED
+0.711200 -105.553400 13.153011 PTH    JP1    PIN    UNOWNED
+0.711200 -103.013403 14.423005 PTH    JP1    PIN    UNOWNED
+0.711200 -105.553403 15.693005 PTH    JP1    PIN    UNOWNED
+0.600000 -61.840000 6.450000 PTH    J10    PIN    UNOWNED
+0.600000 -53.200000 6.450000 PTH    J10    PIN    UNOWNED
+0.900000 -3.900000 11.500000 NPTH    J3    PIN    UNOWNED
+1.016000 -116.713400 17.880200 PTH    JP1    PIN    UNOWNED
+3.800000 -111.862000 17.118200 PTH    JP1    PIN    UNOWNED
+2.286000 -111.900000 22.200000 PTH    J9    PIN    UNOWNED
+1.799999 -108.712400 18.870800 PTH    JP1    PIN    UNOWNED
+2.286000 -106.200000 22.200000 PTH    J9    PIN    UNOWNED
+0.900000 -106.220000 25.400000 PTH    J9    PIN    UNOWNED
+0.900000 -108.720000 25.400000 PTH    J9    PIN    UNOWNED
+0.900000 -3.900000 19.500000 NPTH    J3    PIN    UNOWNED
+2.300000 -111.900000 35.600000 PTH    J9    PIN    UNOWNED
+2.286000 -106.200000 35.600000 PTH    J9    PIN    UNOWNED
+0.900000 -106.220000 27.900000 PTH    J9    PIN    UNOWNED
+0.900000 -106.220000 29.900000 PTH    J9    PIN    UNOWNED
+0.900000 -106.220000 32.400000 PTH    J9    PIN    UNOWNED
+0.900000 -108.720000 27.900000 PTH    J9    PIN    UNOWNED
+0.900000 -108.720000 29.900000 PTH    J9    PIN    UNOWNED
+0.900000 -108.720000 32.400000 PTH    J9    PIN    UNOWNED
+0.800000 -4.900000 36.000000 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 36.000000 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 34.000011 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 34.000011 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 32.000011 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 32.000011 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 30.000009 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 30.000009 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 28.000021 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 28.000021 PTH    CON1    PIN    UNOWNED
+0.600000 -118.600000 40.200000 PTH    J4    PIN    UNOWNED
+0.787400 -111.400000 43.800000 PTH    J4    PIN    UNOWNED
+0.787400 -111.400000 40.600000 PTH    J4    PIN    UNOWNED
+0.800000 -4.900000 45.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 45.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 43.999981 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 43.999981 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 41.999989 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 41.999989 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 39.999989 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 39.999989 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 38.000000 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 38.000000 PTH    CON1    PIN    UNOWNED
+1.300000 -114.800000 54.500000 PTH    J8    PIN    UNOWNED
+0.600000 -118.600000 50.000000 PTH    J4    PIN    UNOWNED
+0.787400 -111.400000 49.100000 PTH    J4    PIN    UNOWNED
+0.800000 -4.900000 55.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 55.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 53.999981 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 53.999981 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 51.999980 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 51.999980 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 49.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 49.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 47.999980 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 47.999980 PTH    CON1    PIN    UNOWNED
+1.300000 -114.800000 62.120000 PTH    J8    PIN    UNOWNED
+1.300000 -114.800000 58.310000 PTH    J8    PIN    UNOWNED
+0.800000 -4.900000 65.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 65.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 63.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 63.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 61.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 61.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 59.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 59.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -4.900000 57.999979 PTH    CON1    PIN    UNOWNED
+0.800000 -2.900000 57.999979 PTH    CON1    PIN    UNOWNED
+1.300000 -115.000000 72.110000 PTH    J7    PIN    UNOWNED
+1.300000 -115.000000 68.300000 PTH    J7    PIN    UNOWNED
+3.500000 -96.000000 71.400000 PTH    TP3    PIN    UNOWNED
+1.400000 -15.300000 68.550000 PTH    SW4    PIN    UNOWNED
+1.100000 -14.150000 71.050000 PTH    SW4    PIN    UNOWNED
+1.100000 -9.650000 71.050000 PTH    SW4    PIN    UNOWNED
+1.400000 -8.500000 68.550000 PTH    SW4    PIN    UNOWNED
+3.500000 -3.500000 71.400000 PTH    TP2    PIN    UNOWNED
+.END_DRILLED_HOLES
+.PLACEMENT
+CRY-D3225                                    CRY-D3225                                    Y3                                           
+-59.6                         12.8                          0.0                           270.0     TOP       PLACED    
+C0805                                        C0805                                        C72                                          
+-67.65                        17.15                         0.0                           0.0       TOP       PLACED    
+ANT_JACK                                     ANT_JACK                                     ANT1                                         
+-16.8                         2.55                          0.0                           0.0       TOP       PLACED    
+C0402                                        C0402                                        C1                                           
+-74.75                        17.15                         0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C12                                          
+-96.7                         51.0                          0.0                           90.0      TOP       PLACED    
+C0603                                        C0603                                        C13                                          
+-14.8                         40.6                          0.0                           180.0     TOP       PLACED    
+C0402                                        C0402                                        C18                                          
+-106.95                       49.45                         0.0                           0.0       TOP       PLACED    
+C0603                                        C0603                                        C2                                           
+-28.5                         51.1                          0.0                           180.0     TOP       PLACED    
+C0402                                        C0402                                        C22                                          
+-97.05                        57.6                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C26                                          
+-36.3                         60.0                          0.0                           0.0       TOP       PLACED    
+C0805                                        C0805                                        C28                                          
+-12.3                         46.95                         0.0                           180.0     TOP       PLACED    
+C0402                                        C0402                                        C3                                           
+-28.2                         49.85                         0.0                           180.0     TOP       PLACED    
+C0402                                        C0402                                        C36                                          
+-99.4                         15.7                          0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C37                                          
+-95.4                         10.65                         0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C39                                          
+-94.55                        18.6                          0.0                           90.0      TOP       PLACED    
+C0603                                        C0603                                        C4                                           
+-29.3                         22.7                          0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C40                                          
+-95.6                         18.6                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C41                                          
+-97.9                         18.2                          0.0                           180.0     TOP       PLACED    
+C0603                                        C0603                                        C49                                          
+-53.2                         61.65                         0.0                           180.0     TOP       PLACED    
+C0402                                        C0402                                        C5                                           
+-31.35                        23.8                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C51                                          
+-55.3                         63.4                          0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C55                                          
+-110.6                        67.15                         0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C56                                          
+-97.2                         62.55                         0.0                           0.0       TOP       PLACED    
+C0402                                        C0402                                        C57                                          
+-97.2                         63.85                         0.0                           0.0       TOP       PLACED    
+C0402                                        C0402                                        CD1                                          
+-18.05                        2.15                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        CD2                                          
+-20.75                        2.15                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        CD3                                          
+-21.65                        11.2                          0.0                           180.0     TOP       PLACED    
+DIP40_2X20                                   DIP40_2X20                                   CON1                                         
+-3.9                          37.0                          0.0                           90.0      TOP       MCAD      
+SOD123                                       SOD123                                       D1                                           
+-18.7                         37.25                         0.0                           270.0     TOP       PLACED    
+ESD0402                                      ESD0402                                      D10                                          
+-16.8                         16.5                          0.0                           180.0     TOP       PLACED    
+ESD0402                                      ESD0402                                      D11                                          
+-16.8                         17.6                          0.0                           180.0     TOP       PLACED    
+ESD0402                                      ESD0402                                      D12                                          
+-16.8                         18.7                          0.0                           180.0     TOP       PLACED    
+ESD0402                                      ESD0402                                      D2                                           
+-100.65                       51.1                          0.0                           90.0      TOP       PLACED    
+ESD0402                                      ESD0402                                      D3                                           
+-97.65                        51.1                          0.0                           90.0      TOP       PLACED    
+ESD0402                                      ESD0402                                      D4                                           
+-99.65                        51.1                          0.0                           90.0      TOP       PLACED    
+ESD0402                                      ESD0402                                      D5                                           
+-98.65                        51.1                          0.0                           90.0      TOP       PLACED    
+ESD0402                                      ESD0402                                      D6                                           
+-16.8                         9.9                           0.0                           180.0     TOP       PLACED    
+ESD0402                                      ESD0402                                      D7                                           
+-16.8                         11.0                          0.0                           180.0     TOP       PLACED    
+ESD0402                                      ESD0402                                      D8                                           
+-16.8                         12.1                          0.0                           180.0     TOP       PLACED    
+ESD0402                                      ESD0402                                      D9                                           
+-16.8                         13.45                         0.0                           180.0     TOP       PLACED    
+C0805                                        C0805                                        E1                                           
+-109.8                        38.2                          0.0                           180.0     TOP       PLACED    
+C0805                                        C0805                                        E2                                           
+-92.65                        35.7                          0.0                           0.0       TOP       PLACED    
+ESD0402                                      ESD0402                                      ED1                                          
+-57.3                         63.3                          0.0                           270.0     TOP       PLACED    
+E0402N                                       E0402N                                       ED10                                         
+-102.8                        30.5                          0.0                           0.0       TOP       PLACED    
+ESD0402                                      ESD0402                                      ED2                                          
+-71.25                        70.8                          0.0                           0.0       TOP       PLACED    
+ESD0402                                      ESD0402                                      ED3                                          
+-71.25                        69.8                          0.0                           180.0     TOP       PLACED    
+ESD0402                                      ESD0402                                      ED4                                          
+-71.25                        68.85                         0.0                           0.0       TOP       PLACED    
+ESD0402                                      ESD0402                                      ED5                                          
+-110.35                       57.5                          0.0                           270.0     TOP       PLACED    
+ESD0402                                      ESD0402                                      ED6                                          
+-110.35                       59.5                          0.0                           90.0      TOP       PLACED    
+E0402N                                       E0402N                                       ED7                                          
+-102.8                        31.8                          0.0                           0.0       TOP       PLACED    
+E0402N                                       E0402N                                       ED8                                          
+-102.8                        33.35                         0.0                           0.0       TOP       PLACED    
+E0402N                                       E0402N                                       ED9                                          
+-102.8                        29.05                         0.0                           0.0       TOP       PLACED    
+FPC6-0_5MM-2660H                             FPC6-0_5MM-2660H                             J2                                           
+-99.1                         48.6                          0.0                           0.0       TOP       MCAD      
+TYPEC-16PIN-SMD1                             TYPEC-16PIN-SMD1                             J10                                          
+-53.2                         2.3                           0.0                           0.0       TOP       PLACED    
+FPC30R_0R50_DOWN                             FPC30R_0R50_DOWN                             J1                                           
+-73.7                         11.2                          0.0                           0.0       TOP       PLACED    
+TF-CKT01-009D                                TF-CKT01-009D                                J3                                           
+-3.9                          15.5                          0.0                           0.0       TOP       PLACED    
+DC-044A                                      DC-044A                                      J4                                           
+-121.6                        43.8                          0.0                           270.0     TOP       MCAD      
+CON3X1X1_25-HS                               CON3X1X1_25-HS                               J5                                           
+-21.2                         67.3                          0.0                           90.0      TOP       PLACED    
+FPC30R_0R50_DOWN                             FPC30R_0R50_DOWN                             J6                                           
+-67.3                         65.9                          0.0                           180.0     TOP       PLACED    
+USB-AF-DUAL                                  USB_DUAL                                     J9                                           
+-111.9                        28.9                          0.0                           0.0       TOP       MCAD      
+RJ-45-HR911105B                              RJ-45-RH911105A                              JP1                                          
+-111.1                        11.2                          0.0                           90.0      TOP       MCAD      
+IND-4X4                                      IND-4X4                                      L1                                           
+-15.35                        37.45                         0.0                           180.0     TOP       PLACED    
+0624_66X70                                   0624_66X70                                   L2                                           
+-106.2                        53.7                          0.0                           0.0       TOP       PLACED    
+IND-2520                                     IND-2520                                     L3                                           
+-12.15                        49.0                          0.0                           0.0       TOP       PLACED    
+LED0603                                      LED0603                                      LED1                                         
+-8.7                          62.3                          0.0                           180.0     TOP       PLACED    
+LED0603                                      LED0603                                      LED2                                         
+-8.75                         60.8                          0.0                           180.0     TOP       PLACED    
+LED0603                                      LED0603                                      LED3                                         
+-8.75                         59.3                          0.0                           180.0     TOP       PLACED    
+T-1                                          T-0_7                                        P1                                           
+-100.35                       48.05                         0.0                           0.0       BOTTOM    PLACED    
+T-1                                          T-0_7                                        P2                                           
+-100.35                       45.7                          0.0                           0.0       BOTTOM    PLACED    
+T-1                                          T-0_7                                        P3                                           
+-99.35                        46.65                         0.0                           0.0       BOTTOM    PLACED    
+T-1                                          T-0_7                                        P4                                           
+-99.35                        44.95                         0.0                           0.0       BOTTOM    PLACED    
+T-1                                          T-0_7                                        P5                                           
+-98.35                        48.0                          0.0                           0.0       BOTTOM    PLACED    
+T-1                                          T-0_7                                        P6                                           
+-98.35                        45.7                          0.0                           0.0       BOTTOM    PLACED    
+SOT23                                        SOT-23                                       Q1                                           
+-34.0                         22.7                          0.0                           270.0     TOP       PLACED    
+SOT23                                        SOT-23                                       Q2                                           
+-38.25                        22.7                          0.0                           270.0     TOP       PLACED    
+SOT23                                        SOT23                                        Q3                                           
+-25.65                        58.25                         0.0                           270.0     TOP       PLACED    
+SOT23                                        SOT23                                        Q4                                           
+-8.25                         42.45                         0.0                           0.0       TOP       PLACED    
+SOT23                                        SOT23                                        Q5                                           
+-94.55                        65.5                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R1                                           
+-73.8                         17.15                         0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R10                                          
+-28.1                         23.0                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R11                                          
+-100.65                       53.05                         0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R12                                          
+-98.65                        53.05                         0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R13                                          
+-99.65                        53.05                         0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R15                                          
+-18.65                        33.45                         0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R16                                          
+-12.35                        32.5                          0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R17                                          
+-20.4                         32.5                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R18                                          
+-18.65                        32.5                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R2                                           
+-70.7                         17.15                         0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R21                                          
+-18.8                         18.7                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R23                                          
+-18.8                         16.5                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R24                                          
+-18.75                        12.1                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R25                                          
+-18.75                        11.0                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R26                                          
+-18.75                        9.9                           0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R29                                          
+-109.2                        45.1                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R3                                           
+-75.7                         17.15                         0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R30                                          
+-109.2                        46.95                         0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R32                                          
+-38.1                         60.0                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R33                                          
+-104.85                       43.65                         0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R34                                          
+-106.25                       41.4                          0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R35                                          
+-104.85                       41.8                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R36                                          
+-8.75                         64.6                          0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R37                                          
+-9.75                         64.6                          0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R38                                          
+-7.75                         64.6                          0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R39                                          
+-23.0                         57.85                         0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R4                                           
+-30.95                        22.45                         0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R40                                          
+-25.4                         60.55                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R41                                          
+-27.15                        60.55                         0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R42                                          
+-9.9                          56.25                         0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R43                                          
+-9.95                         55.3                          0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R44                                          
+-10.25                        52.95                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R45                                          
+-10.25                        51.95                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R47                                          
+-8.25                         45.45                         0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R5                                           
+-30.95                        21.45                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R52                                          
+-90.3                         15.85                         0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R53                                          
+-92.1                         15.85                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R54                                          
+-99.4                         17.45                         0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R55                                          
+-92.1                         16.8                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R6                                           
+-41.3                         23.65                         0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R62                                          
+-65.3                         63.55                         0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R63                                          
+-108.7                        64.85                         0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R64                                          
+-104.95                       67.55                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R65                                          
+-108.7                        65.85                         0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R66                                          
+-103.2                        67.55                         0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R67                                          
+-97.2                         66.95                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R68                                          
+-110.6                        68.9                          0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R69                                          
+-110.6                        70.7                          0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R7                                           
+-26.2                         23.0                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R70                                          
+-97.2                         65.95                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R71                                          
+-110.6                        72.5                          0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R72                                          
+-108.3                        60.7                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R73                                          
+-97.2                         60.3                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R74                                          
+-45.8                         10.1                          0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R75                                          
+-47.2                         15.65                         0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R76                                          
+-48.2                         15.65                         0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R77                                          
+-75.7                         63.65                         0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R78                                          
+-75.7                         65.4                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R79                                          
+-74.7                         65.35                         0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R8                                           
+-25.25                        23.0                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R80                                          
+-74.7                         68.95                         0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R81                                          
+-69.45                        6.05                          0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R82                                          
+-89.55                        31.8                          0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R83                                          
+-95.4                         31.8                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R9                                           
+-88.4                         40.3                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R51                                          
+-9.9                          58.05                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        RD1                                          
+-21.65                        10.25                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        RD2                                          
+-21.65                        12.2                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        RW1                                          
+-19.4                         2.55                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        RW2                                          
+-43.35                        7.2                           0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        RW3                                          
+-43.35                        9.2                           0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        RW4                                          
+-43.35                        11.2                          0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        RW5                                          
+-43.35                        13.2                          0.0                           180.0     TOP       PLACED    
+KEY6X6X45                                    KEY6X6X45                                    SW2                                          
+-39.65                        66.65                         0.0                           90.0      TOP       PLACED    
+KEY6X6X45                                    KEY6X6X45                                    SW3                                          
+-46.3                         66.65                         0.0                           90.0      TOP       PLACED    
+35X35_MOUDEL_124SMD                          35X35_MOUDEL_124SMD                          U1                                           
+-51.7                         22.2                          0.0                           90.0      TOP       PLACED    
+BGA169_18R00X14R00X1R20                      INAND_169                                    U12                                          
+-82.5                         64.25                         0.0                           180.0     TOP       PLACED    
+SOT23-5                                      SOT23-5                                      U13                                          
+-92.4                         32.75                         0.0                           270.0     TOP       PLACED    
+SSOP28-HUB                                   SSOP28-HUB                                   U14                                          
+-65.8                         11.75                         0.0                           270.0     TOP       PLACED    
+LORA                                         LORA                                         U2                                           
+-24.55                        5.2                           0.0                           180.0     TOP       PLACED    
+SOT26                                        SOT26                                        U4                                           
+-16.8                         34.5                          0.0                           0.0       TOP       PLACED    
+QFN12_2R00X3R00X1R00                         QFN12_2R00X3R00X1R00                         U5                                           
+-106.55                       46.8                          0.0                           90.0      TOP       PLACED    
+MDBT50Q                                      MDBT50Q                                      U6                                           
+-21.85                        50.45                         0.0                           0.0       TOP       PLACED    
+QFN24                                        QFN24                                        U7                                           
+-95.85                        14.95                         0.0                           270.0     TOP       PLACED    
+SSOP20_1                                     SSOP20_1                                     U8                                           
+-99.1                         60.3                          0.0                           90.0      TOP       PLACED    
+SOP8-255-50                                  MAX485                                       U9                                           
+-105.25                       70.75                         0.0                           90.0      TOP       PLACED    
+CRY-D3225                                    CRY-D3225                                    X1                                           
+-92.85                        21.25                         0.0                           180.0     TOP       PLACED    
+CRY-3215                                     CRY-3215                                     Y1                                           
+-21.3                         48.4                          0.0                           0.0       TOP       PLACED    
+FPC40PIN-0_5MM-FPC-BOTTOM                    FPC40PIN_BOTTOM                              FP1                                          
+-26.3                         48.4                          0.0                           0.0       TOP       MCAD      
+2PIN_3_81                                    2PIN_3_81                                    J7                                           
+-115.0                        68.3                          0.0                           90.0      TOP       PLACED    
+3PIN_3_81                                    3PIN_3_81                                    J8                                           
+-114.8                        54.5                          0.0                           90.0      TOP       PLACED    
+HOLE_PTH_R6D3_5                              HOLE_PTH_R6D3_5                              TP4                                          
+-3.5                          3.9                           0.0                           0.0       TOP       MCAD      
+C0402                                        C0402                                        C59                                          
+-106.7                        67.55                         0.0                           0.0       TOP       PLACED    
+C0402                                        C0402                                        C62                                          
+-50.1                         15.25                         0.0                           180.0     TOP       PLACED    
+C0805                                        C0805                                        C29                                          
+-9.85                         48.8                          0.0                           270.0     TOP       PLACED    
+C0603                                        C0603                                        C54                                          
+-103.45                       58.35                         0.0                           0.0       TOP       PLACED    
+C0402                                        C0402                                        C44                                          
+-97.15                        11.45                         0.0                           180.0     TOP       PLACED    
+C0402                                        C0402                                        C35                                          
+-91.6                         13.5                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C65                                          
+-75.7                         67.15                         0.0                           90.0      TOP       PLACED    
+T-1                                          TEST                                         TP5                                          
+-93.8                         14.4                          0.0                           0.0       BOTTOM    PLACED    
+T-1                                          TEST                                         TP6                                          
+-93.8                         17.05                         0.0                           0.0       BOTTOM    PLACED    
+T-1                                          TEST                                         TP7                                          
+-93.8                         15.6                          0.0                           0.0       BOTTOM    PLACED    
+R0402                                        R0402                                        R46                                          
+-10.25                        50.95                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R14                                          
+-97.65                        53.05                         0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R22                                          
+-18.8                         17.6                          0.0                           0.0       TOP       PLACED    
+HOLE_PTH_R6D3_5                              HOLE_PTH_R6D3_5                              TP1                                          
+-96.0                         3.9                           0.0                           0.0       TOP       MCAD      
+HOLE_PTH_R6D3_5                              HOLE_PTH_R6D3_5                              TP2                                          
+-3.5                          71.4                          0.0                           0.0       TOP       MCAD      
+HOLE_PTH_R6D3_5                              HOLE_PTH_R6D3_5                              TP3                                          
+-96.0                         71.4                          0.0                           0.0       TOP       MCAD      
+C0402                                        C0402                                        C31                                          
+-19.3                         49.85                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R48                                          
+-8.8                          39.8                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R49                                          
+-8.1                          54.15                         0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R50                                          
+-8.1                          55.3                          0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R56                                          
+-90.3                         16.8                          0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R57                                          
+-94.7                         23.35                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R58                                          
+-92.1                         17.8                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R59                                          
+-92.55                        13.5                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R84                                          
+-59.15                        9.2                           0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C60                                          
+-97.2                         61.6                          0.0                           180.0     TOP       PLACED    
+C0402                                        C0402                                        C61                                          
+-97.2                         64.85                         0.0                           180.0     TOP       PLACED    
+C0402                                        C0402                                        C63                                          
+-45.8                         8.95                          0.0                           180.0     TOP       PLACED    
+C0805                                        C0805                                        C11                                          
+-17.85                        40.55                         0.0                           0.0       TOP       PLACED    
+C0603                                        C0603                                        C14                                          
+-95.5                         51.25                         0.0                           90.0      TOP       PLACED    
+C0805                                        C0805                                        C19                                          
+-105.85                       40.0                          0.0                           0.0       TOP       PLACED    
+C0805                                        C0805                                        C20                                          
+-101.2                        57.5                          0.0                           90.0      TOP       PLACED    
+C0805                                        C0805                                        C21                                          
+-99.45                        57.5                          0.0                           90.0      TOP       PLACED    
+C0805                                        C0805                                        C27                                          
+-14.75                        47.7                          0.0                           270.0     TOP       PLACED    
+C0805                                        C0805                                        C32                                          
+-98.25                        22.25                         0.0                           270.0     TOP       PLACED    
+C0805                                        C0805                                        C33                                          
+-96.45                        22.25                         0.0                           270.0     TOP       PLACED    
+C0805                                        C0805                                        C38                                          
+-89.55                        13.1                          0.0                           0.0       TOP       PLACED    
+C0603                                        C0603                                        C46                                          
+-92.35                        10.35                         0.0                           270.0     TOP       PLACED    
+C0805                                        C0805                                        C47                                          
+-98.9                         9.4                           0.0                           90.0      TOP       PLACED    
+C0603                                        C0603                                        C52                                          
+-56.0                         61.65                         0.0                           0.0       TOP       PLACED    
+C0603                                        C0603                                        C53                                          
+-106.0                        58.35                         0.0                           180.0     TOP       PLACED    
+C0603                                        C0603                                        C58                                          
+-108.85                       67.35                         0.0                           180.0     TOP       PLACED    
+C0603                                        C0603                                        C70                                          
+-88.8                         33.55                         0.0                           90.0      TOP       PLACED    
+C0805                                        C0805                                        C73                                          
+-65.15                        5.35                          0.0                           270.0     TOP       PLACED    
+SOD_123                                      SOD_123                                      D14                                          
+-49.2                         8.0                           0.0                           0.0       TOP       PLACED    
+SOD123                                       SOD123                                       D15                                          
+-54.65                        10.45                         0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C10                                          
+-27.15                        23.0                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C42                                          
+-96.55                        18.6                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C45                                          
+-93.5                         10.65                         0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C48                                          
+-94.45                        10.65                         0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C50                                          
+-53.8                         63.4                          0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C64                                          
+-75.7                         61.85                         0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C71                                          
+-90.0                         33.3                          0.0                           90.0      TOP       PLACED    
+C0805                                        C0805                                        C74                                          
+-66.9                         5.35                          0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C15                                          
+-20.4                         33.45                         0.0                           0.0       TOP       PLACED    
+C0402                                        C0402                                        C16                                          
+-16.85                        15.4                          0.0                           180.0     TOP       PLACED    
+C0603                                        C0603                                        C17                                          
+-18.65                        14.4                          0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C23                                          
+-98.0                         57.6                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C24                                          
+-105.2                        49.45                         0.0                           180.0     TOP       PLACED    
+C0402                                        C0402                                        C25                                          
+-111.35                       50.7                          0.0                           180.0     TOP       PLACED    
+C1206                                        C1206                                        C34                                          
+-101.7                        21.95                         0.0                           180.0     TOP       PLACED    
+C0402                                        C0402                                        C43                                          
+-92.1                         14.9                          0.0                           0.0       TOP       PLACED    
+C0402                                        C0402                                        C68                                          
+-73.7                         67.15                         0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C30                                          
+-21.05                        49.85                         0.0                           180.0     TOP       PLACED    
+CRY-MC146                                    CRY-MC146                                    Y2                                           
+-52.65                        11.3                          0.0                           270.0     TOP       PLACED    
+R0805                                        R0805                                        R20                                          
+-24.7                         50.5                          0.0                           0.0       TOP       PLACED    
+R1206                                        R1206                                        R28                                          
+-95.65                        55.35                         0.0                           180.0     TOP       PLACED    
+R0603                                        R0603                                        R61                                          
+-96.7                         8.55                          0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R60                                          
+-90.3                         17.8                          0.0                           180.0     TOP       PLACED    
+R0402                                        R0402                                        R19                                          
+-20.4                         31.55                         0.0                           0.0       TOP       PLACED    
+R0402                                        R0402                                        R27                                          
+-108.7                        49.45                         0.0                           0.0       TOP       PLACED    
+SOD_123                                      SOD_123                                      D13                                          
+-49.2                         10.1                          0.0                           0.0       TOP       PLACED    
+C0402                                        C0402                                        C75                                          
+-69.7                         17.15                         0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C76                                          
+-68.45                        6.05                          0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C78                                          
+-56.55                        10.55                         0.0                           0.0       TOP       PLACED    
+C0402                                        C0402                                        C79                                          
+-56.55                        11.5                          0.0                           0.0       TOP       PLACED    
+C0402                                        C0402                                        D16                                          
+-57.25                        9.15                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        D17                                          
+-58.2                         9.2                           0.0                           90.0      TOP       PLACED    
+C0603                                        C0603                                        C77                                          
+-56.8                         12.65                         0.0                           0.0       TOP       PLACED    
+C0603                                        C0603                                        C80                                          
+-56.8                         14.05                         0.0                           0.0       TOP       PLACED    
+MSOP8                                        MSOP8                                        U11                                          
+-48.25                        13.0                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R85                                          
+-56.25                        9.15                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R86                                          
+-68.45                        4.15                          0.0                           270.0     TOP       PLACED    
+R0402                                        R0402                                        R87                                          
+-71.55                        13.95                         0.0                           90.0      TOP       PLACED    
+R0402                                        R0402                                        R88                                          
+-63.75                        6.05                          0.0                           90.0      TOP       PLACED    
+SMD-2P-1_25                                  SMD-2P-1_25                                  U10                                          
+-48.0                         5.2                           0.0                           0.0       TOP       PLACED    
+SOT_23_5                                     SOT_23_5                                     U3                                           
+-91.05                        38.9                          0.0                           180.0     TOP       PLACED    
+TS-1038                                      TS-1038                                      SW4                                          
+-11.9                         71.05                         0.0                           180.0     TOP       PLACED    
+CON3X1X1_25-HS                               CON3X1X1_25-HS                               J11                                          
+-31.25                        67.4                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C8                                           
+-93.75                        37.5                          0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C7                                           
+-90.2                         36.7                          0.0                           180.0     TOP       PLACED    
+C0402                                        C0402                                        C6                                           
+-93.75                        39.5                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C9                                           
+-93.75                        41.3                          0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C67                                          
+-75.7                         68.95                         0.0                           270.0     TOP       PLACED    
+C0402                                        C0402                                        C69                                          
+-73.7                         68.95                         0.0                           90.0      TOP       PLACED    
+C0402                                        C0402                                        C66                                          
+-74.7                         67.15                         0.0                           90.0      TOP       PLACED    
+.END_PLACEMENT
