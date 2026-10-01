@@ -26,4 +26,5 @@ Send a new PR to this repository on GitHub, append your application table(sort P
 | Project Name | CM5 Model                         | Hardware(Carrier Board)             | Software | Notes                                           |
 |--------------|-----------------------------------|-------------------------------------|----------|------------------------------------------------|
 | Argo         | Radxa CM5 Max (16GB RAM, 128GB eMMC) | Custom Raspberry Pi–focused Carrier PCB | Ubuntu/Android      | For testing with custom Raspi-focused Carrier PCB |
+| cmflight | Radxa CM-Q64 16gb 128gb | Custom flight controller carrier board (IMUs, I2C baro, CAN) | ArduPilot (ArduCopter) | Requesting CM-Q64 as CM5 was unavailable for purchase. Prior work: Cubie A7Z FC and RPi CM5 carrier (https://github.com/awright424/cmflight) |
 | piBrick PocketRX5         | Radxa CM5 Max (16GB RAM, 128GB eMMC) | Handheld pocket computer | Ubuntu/Android      | For designing new board supporting Radxa CM5 |
