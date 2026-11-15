@@ -15,7 +15,7 @@ Spec source: ../tools/out/cm5.md
 
 ## Apply for Radxa CM5
 
-Radxa is donating some free [Radxa CM5](hhttps://rock.sh/cm5) to open source hardware projects.
+Radxa is donating some free [Radxa CM5](https://rock.sh/cm5) to open source hardware projects.
 
 ## How to apply
 
@@ -23,7 +23,8 @@ Send a new PR to this repository on GitHub, append your application table(sort P
 
 ## CM5 projects list:
 
-| Project Name | CM5 Model                         | Hardware(Carrier Board)             | Software | Notes                                           |
-|--------------|-----------------------------------|-------------------------------------|----------|------------------------------------------------|
-| Argo         | Radxa CM5 Max (16GB RAM, 128GB eMMC) | Custom Raspberry Pi–focused Carrier PCB | Ubuntu/Android      | For testing with custom Raspi-focused Carrier PCB |
-| piBrick PocketRX5         | Radxa CM5 Max (16GB RAM, 128GB eMMC) | Handheld pocket computer | Ubuntu/Android      | For designing new board supporting Radxa CM5 |
+| Project Name | CM5 Model | Hardware(Carrier Board) | Software | Notes |
+|--------------|-----------|------------------------|----------|-------|
+| AI Passport | Radxa CM5 (8GB RAM) | Custom ultra-compact wearable carrier PCB (under development) | Debian / Linux / RKNN | Open-source wearable multimodal edge AI terminal featuring dual displays, camera-based visual perception, 4G LTE connectivity, voice interaction and on-device small language model inference |
+| Argo | Radxa CM5 Max (16GB RAM, 128GB eMMC) | Custom Raspberry Pi–focused Carrier PCB | Ubuntu/Android | For testing with custom Raspi-focused Carrier PCB |
+| piBrick PocketRX5 | Radxa CM5 Max (16GB RAM, 128GB eMMC) | Handheld pocket computer | Ubuntu/Android | For designing new board supporting Radxa CM5 |
